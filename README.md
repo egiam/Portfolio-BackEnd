@@ -33,4 +33,4 @@ User:
 }
 
 
-Ya a partir de aca queda todo listo, se va al frontend y se realiza un ng serve en la carpeta PortfolioEzequielGiampaoli
+Ya a partir de aca queda todo listo, se va al frontend y se realiza un ng serve en la carpeta PortfolioEzequielGiampaoli o se dirige directamente a la pagina: https://frontend-argprog-c0f1e.web.app/
