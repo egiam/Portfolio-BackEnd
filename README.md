@@ -4,7 +4,7 @@
 
 ### Como hacer que funcione:
 
-El MySQL de la app corre con XAMPP e el puerto 3308, para que funcione correctamente y cree las tablas, se necesita crear primero una base de datos MySQL con nombre: backendgem
+El MySQL de la app corre con XAMPP en el puerto 3308, para que funcione correctamente y cree las tablas, se necesita crear primero una base de datos MySQL con nombre: backendgem
 
 Esto hay que hacerlo en el MySQL desde XAMPP, podes hacerlo ya sea desde el phpmyadmin de xampp, o el workbench de mysql conectado a xampp.
 
@@ -34,3 +34,5 @@ User:
 
 
 Ya a partir de aca queda todo listo, se va al frontend y se realiza un ng serve en la carpeta PortfolioEzequielGiampaoli o se dirige directamente a la pagina: https://frontend-argprog-c0f1e.web.app/
+
+Donde para logearse puede, ya sea como administrador, poniendo admin en nombre y password, o como usuario comun, poniendo user en nombre y password.
